@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cVirus-tracker/static/css/main.6fcb2b51.chunk.css",
+    "main.js": "/cVirus-tracker/static/js/main.be631047.chunk.js",
+    "main.js.map": "/cVirus-tracker/static/js/main.be631047.chunk.js.map",
+    "runtime-main.js": "/cVirus-tracker/static/js/runtime-main.dcf37e35.js",
+    "runtime-main.js.map": "/cVirus-tracker/static/js/runtime-main.dcf37e35.js.map",
+    "static/css/2.150d169a.chunk.css": "/cVirus-tracker/static/css/2.150d169a.chunk.css",
+    "static/js/2.ab6d55e6.chunk.js": "/cVirus-tracker/static/js/2.ab6d55e6.chunk.js",
+    "static/js/2.ab6d55e6.chunk.js.map": "/cVirus-tracker/static/js/2.ab6d55e6.chunk.js.map",
+    "static/js/3.16837f10.chunk.js": "/cVirus-tracker/static/js/3.16837f10.chunk.js",
+    "static/js/3.16837f10.chunk.js.map": "/cVirus-tracker/static/js/3.16837f10.chunk.js.map",
+    "index.html": "/cVirus-tracker/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/cVirus-tracker/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.6fcb2b51.chunk.css.map": "/cVirus-tracker/static/css/main.6fcb2b51.chunk.css.map",
+    "static/js/2.ab6d55e6.chunk.js.LICENSE.txt": "/cVirus-tracker/static/js/2.ab6d55e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcf37e35.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.ab6d55e6.chunk.js",
+    "static/css/main.6fcb2b51.chunk.css",
+    "static/js/main.be631047.chunk.js"
+  ]
+}
